@@ -8,7 +8,7 @@ This repository contains the materials for my project on Bertrand's Paradox, dev
 ### Contents
 1. **<a href="Comparative Analysis of the Existing Solutions for Bertrands Paradox.pdf">Paper:</a>** The paper was written as the final project to the course ```MATH/PHIL 222 - Paradox and Infinity```. The paper was to write a comparative analysis on the existing solutions to Bertrand's Paradox (paradox of our own choosing). The course itself relates to paradoxes, mainly related to infinity, in philosophical mathematics.
 2. **<a href="">Presentation:</a>** The presentation was made to present our paper, mainly our findings about the paradox, its existing solutions, and our analysis on those solutions.
-3. **Simulation:** The simulation was made to accompany the presentation, mainly in explaining the paradox and the way the method of selection leads to varying probabilities to the same question. It can be accessed <a href="Simulation/index.html" target="_blank">here</a>
+3. **Simulation:** The simulation was made to accompany the presentation, mainly in explaining the paradox and the way the method of selection leads to varying probabilities to the same question. It can be accessed [here](Simulation).
 
 ### Simulation
 The simulation was made using HTML and JavaScript, for which the credit heavily, and majorly goes to <a href="https://github.com/trbromley/">Tom Bromley</a>. The simulation looks like this: 
