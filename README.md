@@ -12,7 +12,7 @@ This repository contains the materials for my project on Bertrand's Paradox, dev
 
 ### Simulation
 The simulation was made using HTML and JavaScript, for which the credit heavily, and majorly goes to <a href="https://github.com/trbromley/">Tom Bromley</a>. The simulation looks like this: 
-<img src=".sim.png" alt="Simulation Image" width="75%" />
+<img src="sim.png" alt="Simulation Image" width="100%" />
 
 #### Acknowledgements
 * Grateful to our instructor, Dr. Aeyaz Jamil Keyani for teaching this course.
